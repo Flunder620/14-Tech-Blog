@@ -1,46 +1,34 @@
-# Project Name
+# Tech Blog
 
 
 
 ## Description
 
-
-
-## Installation
-
-
+This application is a blog focused around tech. It can be used to create posts and comment and posts.
 
 ## Usage
 
-
+The applications works just like a normal website. You can click to create, delete , and update comments or posts
 
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality: 
-![This shows what home page will look like](./assets/images/)
+![This shows what home page will look like](./assets/images/preview.png)
 
 ## Deployment Link
 
-
-
-## Credits
-
-
+https://sleepy-beach-97052-cb7c95ac5381.herokuapp.com/
 
 ## Built With
 
+-Node.js
 
+-Heroku
 
-## License
+-Express.js
 
+-Handlebars.js
 
+-MySQL
 
-## Badges
-
-
-
-## How to Contribute
-
-
-
-## Tests
+-Sequelize
