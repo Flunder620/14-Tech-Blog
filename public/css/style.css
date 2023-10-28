@@ -3,7 +3,7 @@
   --secondary: #9caea9;
   --tertiary: #788585;
   --light-dark: #6f6866;
-  --dark: #38302e;
+  --dark: #000000;
   --border-radius: 0.3rem;
 }
 
@@ -132,7 +132,6 @@ input {
   padding: 0 10px;
   display: inline-block;
   border-radius: var(--border-radius);
-  box-shadow: 6px 5px var(--light-dark);
 }
 
 .app-title a {
